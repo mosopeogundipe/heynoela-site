@@ -1,14 +1,14 @@
-/* Noela's Honey palette, matching app/lib/honey.dart in the app. */
+/* Noela's Soft honey palette, matching app/lib/honey.dart in the app. */
 :root {
-  --paper: #f7f4ef;
-  --surface: #fffdf8;
-  --ink: #080708;
-  --muted: #544b44;
-  --soft: #e3d1a2;
-  --gold: #cfaa60;
-  --gold-tint: #f7f0e0;
+  --paper: #f5f1e8;
+  --surface: #fbf8f1;
+  --ink: #2b2622;
+  --muted: #6e655c;
+  --soft: #ecd29e;
+  --gold: #ddb978;
+  --gold-tint: #f3e9d2;
   --brown: #936c49;
-  --line: #bbae8d;
+  --line: #e4dccb;
   --focus: #195fb4;
   --rounded: ui-rounded, "SF Pro Rounded", "Nunito", system-ui, -apple-system, "Segoe UI", sans-serif;
   --body: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -61,7 +61,7 @@ p, li { color: var(--ink); }
   display: inline-block; background: var(--ink); color: var(--paper);
   padding: 13px 24px; border-radius: 999px; font-weight: 600; text-decoration: none;
 }
-.pill:hover { background: #2a2526; }
+.pill:hover { background: #3a332d; }
 .points { list-style: none; padding: 0; margin: 26px 0 0; display: grid; gap: 12px; }
 .points li {
   background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 14px 18px;
