@@ -1,14 +1,14 @@
-/* Noela's Warm white palette, matching app/lib/honey.dart in the app. */
+/* Noela's Soft honey palette, matching app/lib/honey.dart in the app. */
 :root {
-  --paper: #faf8f3;
-  --surface: #ffffff;
+  --paper: #f5f1e8;
+  --surface: #fbf8f1;
   --ink: #2b2622;
   --muted: #6e655c;
   --soft: #ecd29e;
   --gold: #ddb978;
-  --gold-tint: #f5ebd6;
+  --gold-tint: #f3e9d2;
   --brown: #936c49;
-  --line: #ebe4d6;
+  --line: #e4dccb;
   --focus: #195fb4;
   --rounded: ui-rounded, "SF Pro Rounded", "Nunito", system-ui, -apple-system, "Segoe UI", sans-serif;
   --body: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
