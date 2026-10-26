@@ -38,7 +38,9 @@ header.top {
 .wordmark {
   font: 700 26px/1 var(--rounded); letter-spacing: -0.8px;
   text-decoration: none; color: var(--ink);
+  display: inline-flex; align-items: center; gap: 8px;
 }
+.wordmark img { display: block; }
 .lock { color: var(--muted); font-size: 15px; display: flex; gap: 6px; align-items: center; }
 
 h1, h2, h3 { font-family: var(--rounded); letter-spacing: -0.6px; line-height: 1.15; }
